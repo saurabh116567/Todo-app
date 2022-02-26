@@ -3,9 +3,7 @@
 <a href="#">Working Demo</a>
 ### Website Preview
 
-
-
-<img src="resource/Screenshot 2022-02-26 at 10.17.50 AM.png" width="900">
+![preview](https://github.com/saurabh116567/Todo-app/blob/main/Screenshot%202022-02-26%20at%2010.17.50%20AM.png)
 
 
   
